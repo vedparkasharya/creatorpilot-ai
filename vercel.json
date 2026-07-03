@@ -1,0 +1,5 @@
+{
+  "buildCommand": "NODE_OPTIONS='--max-old-space-size=6144' npm run build",
+  "installCommand": "NODE_OPTIONS='--max-old-space-size=6144' npm install --no-audit --no-fund",
+  "framework": "vite"
+}
